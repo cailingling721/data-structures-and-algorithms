@@ -31,12 +31,11 @@ def binary_search(alist, item):
 
 if __name__ = "__main__":
 	li = [2,34,56,24,12,78,54]
-	print(li)
 	binary_search_1(li, 34)
 	binary_search_1(li, 3)
-  binary_search_2(li, 34)
-  binary_search_2(li, 3)
-	print(li)
+  	binary_search_2(li, 34)
+  	binary_search_2(li, 3)
+
   
   
   
